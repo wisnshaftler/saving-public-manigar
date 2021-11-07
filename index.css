@@ -1,0 +1,59 @@
+.container {
+    z-index: auto;
+    display: inline-block;
+    width: 50vw;
+    height: 80vh;
+    border:black 2px solid;
+    position: relative;
+    overflow-y: hidden;
+}
+
+.status {
+    position:static;
+    margin: auto;
+    border: orange 5px solid;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5rem;
+}
+
+.leaderboard{
+    display: inline-block;
+    border:orange 2px solid;
+    width: 40%;
+    height: 80vh;
+    margin-left: 5%;
+    position: absolute;
+}
+
+.manigar {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+
+.tiktok {
+    position:absolute;
+   
+}
+
+.bus {
+    position:absolute;
+    
+}
+
+.nangiya{
+    position:absolute;
+    
+}
+
+.leddu{
+    position:absolute;
+}
+
+.redbull{
+    z-index: auto;
+    position:absolute;
+    
+}
